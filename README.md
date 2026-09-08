@@ -35,13 +35,13 @@ This repository is intended **strictly for educational purposes** and for practi
 
 ## 📚 Resources
 
-For questions about the learning materials or available resources, contact:
+ Free learning materials or available resources, contact:
 
 📧 **[atia.abk@gmail.com](mailto:atia.abk@gmail.com)**
 
 ---
 
-## 🛒 Official Book Source
+## 🛒 Official Book Source to Buy
 
 If you are looking for the original book, please purchase it from an authorized source:
 
