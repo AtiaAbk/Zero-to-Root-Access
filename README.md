@@ -1,6 +1,3 @@
-
-
-
 # 🔐 Zero-to-Root-Access
 
 > Personal resources for learning — from absolute zero to root-level understanding.
@@ -20,45 +17,40 @@
 
 ## 📖 About
 
-**Zero-to-Root-Access** is a personal, self-paced learning collection built to take someone with no background all the way to a solid, practical understanding of systems and security fundamentals. It's organized as a structured path rather than a random pile of notes — each stage builds on the one before it.
+**Zero-to-Root-Access** is a personal, self-paced learning collection designed to build practical knowledge of systems and cybersecurity fundamentals.
 
-This repository is a **companion/index** — the full book/content is distributed separately (see [Getting the Book](#-getting-the-book) below).
+The repository is organized as a structured learning path, with notes, references, and educational resources covering different areas of cybersecurity and systems.
 
 ---
-
-
 
 ## ⚠️ Ethical Use & Disclaimer
 
-This material is intended **strictly for educational purposes** and for practicing on systems you own or are explicitly authorized to test (e.g., your own lab, or platforms designed for legal practice).
+This repository is intended **strictly for educational purposes** and for practicing on systems you own or are explicitly authorized to test.
 
-- Do **not** use anything learned here against systems, networks, or accounts without proper authorization.
-- Unauthorized access to computer systems is illegal in most jurisdictions.
-- The author/maintainer takes no responsibility for misuse of this material.
+* Do **not** use anything learned here against systems, networks, or accounts without proper authorization.
+* Unauthorized access to computer systems may be illegal.
+* The maintainer takes no responsibility for misuse of the information provided here.
 
 ---
 
-## 📬 Getting Resources
+## 📚 Resources
 
-The full resource is shared personally. To request access, contact:
+For questions about the learning materials or available resources, contact:
 
-📧 **atia.abk@gmail.com**
+📧 **[atia.abk@gmail.com](mailto:atia.abk@gmail.com)**
+
+---
+
+## 🛒 Official Book Source
+
+If you are looking for the original book, please purchase it from an authorized source:
+
+🔗 [Bongo IT](https://bongoit.bd/)
 
 ---
 
 ## 📄 License
 
-This repository (structure, notes, and original content) is shared for **personal educational use**. Please don't redistribute without permission.
+This repository's original structure, notes, and content are provided for **personal educational use**.
 
-
-
-
-
-
-
-
-
-
-
-
-
+Copyrighted third-party materials remain the property of their respective authors and publishers.
