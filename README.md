@@ -1,4 +1,10 @@
 # 🔐 Zero-to-Root-Access
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-brightgreen" alt="status">
+  <img src="https://img.shields.io/badge/level-beginner--to--advanced-blue" alt="level">
+  <img src="https://img.shields.io/badge/topic-security%20%2F%20systems-orange" alt="topic">
+  <img src="https://img.shields.io/badge/license-personal%20use-lightgrey" alt="license">
+</p>
 
 > Personal resources for learning — from absolute zero to root-level understanding.
 
@@ -6,12 +12,6 @@
   <img src="images/img1.png" width="700" alt="Zero to Root Access Banner">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-active-brightgreen" alt="status">
-  <img src="https://img.shields.io/badge/level-beginner--to--advanced-blue" alt="level">
-  <img src="https://img.shields.io/badge/topic-security%20%2F%20systems-orange" alt="topic">
-  <img src="https://img.shields.io/badge/license-personal%20use-lightgrey" alt="license">
-</p>
 
 ---
 
